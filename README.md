@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**GY101/GY101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wolffy101/Wolffy101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![gaoyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GY101&show_icons=true&theme=radical)
+![Wolffy101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolffy101&show_icons=true&theme=radical)
